@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  basic: MyString
+  standard: MyString
+  premium: MyString
+
+two:
+  basic: MyString
+  standard: MyString
+  premium: MyString
